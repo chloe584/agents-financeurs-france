@@ -1,0 +1,36 @@
+{
+  "name": "agents-financeurs-france",
+  "owner": {
+    "name": "chloe584",
+    "url": "https://github.com/chloe584"
+  },
+  "description": "Marketplace de plugins finance/compta français : PCG, CGI, BOFiP, ANC. Adaptation du marketplace anthropics/financial-services-plugins au contexte fiscal et comptable de la France.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "comptabilite-pcg",
+      "source": "./comptabilite-pcg",
+      "description": "Comptabilité française PCG : FEC, écritures de clôture (CCA/PCA/FNP/ICNE), annexes ANC 2022-06, rapprochement bancaire."
+    },
+    {
+      "name": "fiscalite-fr",
+      "source": "./fiscalite-fr",
+      "description": "Fiscalité française : liasse fiscale 2065/2050-2059/2058-A, IS, TVA, BOFiP."
+    },
+    {
+      "name": "tresorerie-fr",
+      "source": "./tresorerie-fr",
+      "description": "Trésorerie & cash management France : plan 13 semaines, intragroupe (4511), convention trésorerie (L.511-7 CMF)."
+    },
+    {
+      "name": "valorisation-fr",
+      "source": "./valorisation-fr",
+      "description": "Valorisation France : DCF avec WACC France, multiples sectoriels FR, ANR/ANCC."
+    },
+    {
+      "name": "paie-juridique-fr",
+      "source": "./paie-juridique-fr",
+      "description": "Paie & juridique France : DSN, URSSAF, conventions collectives, PV AGO/AGE."
+    }
+  ]
+}
