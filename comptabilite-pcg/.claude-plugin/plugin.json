@@ -1,0 +1,9 @@
+{
+  "name": "comptabilite-pcg",
+  "version": "0.1.0",
+  "description": "Comptabilité française PCG : FEC, écritures de clôture (CCA/PCA/FNP/ICNE), annexes ANC 2022-06, rapprochement bancaire. Référentiel : règlement ANC 2014-03 modifié, art. A.47 A-1 LPF.",
+  "author": {
+    "name": "chloe584"
+  },
+  "license": "Apache-2.0"
+}
