@@ -1,0 +1,9 @@
+{
+  "name": "fiscalite-fr",
+  "version": "0.1.0",
+  "description": "Fiscalité française : liasse fiscale 2065/2050-2059/2058-A, IS, TVA, BOFiP. Télédéclaration TDFC. Référentiel CGI + doctrine BOI.",
+  "author": {
+    "name": "chloe584"
+  },
+  "license": "Apache-2.0"
+}
