@@ -1,0 +1,9 @@
+{
+  "name": "valorisation-fr",
+  "version": "0.1.0",
+  "description": "Valorisation d'entreprise contexte FR : DCF avec WACC France (OAT 10 ans, prime pays France ~5,5%), multiples sectoriels FR (Pappers, Infogreffe), ANR/ANCC selon PCG.",
+  "author": {
+    "name": "chloe584"
+  },
+  "license": "Apache-2.0"
+}
