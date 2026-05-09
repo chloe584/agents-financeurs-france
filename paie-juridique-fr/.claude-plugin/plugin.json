@@ -1,0 +1,9 @@
+{
+  "name": "paie-juridique-fr",
+  "version": "0.1.0",
+  "description": "Paie & juridique des sociétés FR : DSN, URSSAF, conventions collectives (Syntec, Audiovisuel), PV AGO/AGE, conventions réglementées (art. L.227-10 C.com).",
+  "author": {
+    "name": "chloe584"
+  },
+  "license": "Apache-2.0"
+}
